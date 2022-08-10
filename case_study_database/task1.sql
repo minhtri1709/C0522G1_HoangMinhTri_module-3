@@ -220,19 +220,5 @@ values
 (7,2,1,2),
 (8,2,12,2);
 
-select ma_nhan_vien, ho_ten 
-from nhan_vien
-where (ho_ten like 'H%'
-or ho_ten like 'K%'
-or ho_ten like 'T%')
-and char_length(ho_ten) <=15;
 
-select ma_khach_hang, ho_ten
-from khach_hang
-where( 
-(dia_chi regexp 'đà nẵng$'
-or dia_chi regexp 'quảng trị$')
-and
-(round(datediff(curdate(), ngay_sinh )/365,0 )>= 18
-and round(datediff(curdate(), ngay_sinh )/365,0 )<= 50)
-);
+
