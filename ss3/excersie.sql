@@ -61,7 +61,7 @@ VALUES (1, 'CF', 5, 1),
 INSERT INTO mark (sub_id, student_id, mark, exam_times)
 VALUES (1, 1, 8, 1),
        (1, 2, 10, 2),
-       (2, 1, 12, 1);
+       (2, 1, 20, 1);
 
 select student_name from student 
 where student_name like 'h%'; 
@@ -82,3 +82,5 @@ where month(start_date) = 12;
  inner join student on student.student_id = mark.student_id 
  inner join `subject` on `subject`.sub_id = mark.sub_id
  order by mark desc
+ 
+ 
