@@ -1,0 +1,146 @@
+.col-l-1 {width: 8.33333%;}
+.col-l-2 {width: 16.66667%;}
+.col-l-3 {width: 25%;}
+.col-l-4 {width: 33.33333%;}
+.col-l-5 {width: 41.66667%;}
+.col-l-6 {width: 50%;}
+.col-l-7 {width: 58.33333%;}
+.col-l-8 {width: 66.66667%;}
+.col-l-9 {width: 75%;}
+.col-l-10 {width: 83.33333%;}
+.col-l-11 {width: 91.66667%;}
+.col-l-12 {width: 100%;}
+
+.row{
+    /*cho phép thẻ div (col) nổi lên trên*/
+    display: flex;
+    /*Các thẻ div (col)  không đủ chỗ chứa trên 1 hàng thì rớt xuống*/
+    flex-wrap: wrap;
+}
+
+.left{
+    background: black;
+    color: #fff764;
+}
+.right{
+    background: black;
+    color: #fff764;
+}
+.contain{
+    background: black;
+    color: #fff764;
+}
+.foot{
+    background: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+
+.head{
+    background: black;
+    height: 50px;
+    color: white;
+    left: 0px;
+    top: 0px;
+}
+
+.head-link{
+    background-color: black;
+    color: white;
+    height: 70px;
+}
+
+.body{
+    font-family: Verdana, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+/*}*/
+/*.menu:hover{*/
+/*    background-color: #7abaff;*/
+/*}*/
+/*.menu:hover .sub-menu{*/
+/*   display: block;*/
+/*}*/
+/*.sub-menu{*/
+/*    display: none;*/
+/*    list-style: none;*/
+/*}*/
+
+
+#menu{
+    height: 30px;
+    padding:0;
+    margin:0;
+    background-color: #000000;
+    border: 1px solid #CDCDCD;
+}
+
+#menu ul, #menu li{
+    padding:0;
+    margin:0;
+}
+
+#menu li{
+    position: relative;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+
+#menu li a{
+    width:100px;
+    height: 30px;
+    display: block;
+    text-decoration:none;
+    text-align: center;
+    line-height: 30px;
+    background-color: black;
+    color: white;
+}
+
+#menu ul ul li a{
+    width: 200px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#menu li a:hover{
+    background-color: red;
+}
+
+#menu ul ul{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    visibility: hidden;
+}
+
+#menu ul li:hover ul{
+    visibility: visible;
+}
+
+#menu_1 li a{
+    text-decoration:none;
+    color: white;
+}
+
+#menu_1  li:hover{
+    background-color: darkgray;
+}
+
+#menu_1 ul ul{
+    position: absolute;
+    top:0;
+    left:140px;
+    visibility:hidden;
+}
+
+
+#menu_1 ul li:hover ul{
+    visibility: visible;
+}

@@ -16,7 +16,7 @@ student_name varchar(30),
 address varchar(50),
 phone varchar(20), 
 `status` bit,
-class_id int not null,
+class_id int,
 foreign key (class_id) references class(class_id)
 );
 

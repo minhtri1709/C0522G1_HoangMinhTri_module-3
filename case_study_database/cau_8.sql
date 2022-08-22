@@ -14,4 +14,5 @@ select ho_ten
 from khach_hang
 union 
 select ho_ten
-from khach_hang;
+from khach_hang
+group by khach_hang.ma.khach_hang;
