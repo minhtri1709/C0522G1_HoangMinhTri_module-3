@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f688efe-8cb7-4b31-ac34-8608c202438a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../excersice/src/main/java/controller/CustomerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../excersice/src/main/java/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../excersice/src/main/webapp/customerList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/C0522G1_HoangMinhTri_module-3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_10.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_11.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_12.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_13.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_14.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_15.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_16.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_17.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_18.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_19.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_20.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_21.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_22.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_23.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_3.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_4.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_5.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_6.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_7.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_8.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/cau_9.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/flowchart.mwb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../case_study_database/task1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss1/ss1_create_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2/excersice_1/excersice_1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2/excersice_1/flowchart_1.mwb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2/excersice_2/excersice_2.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2/excersice_2/flowchart_2.mwb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss3/excersice_2.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss3/excersie.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss4/excersice.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss5/excersice.sql" beforeDir="false" />
-    </list>
+    <list default="true" id="8f688efe-8cb7-4b31-ac34-8608c202438a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661326789958</updated>
       <workItem from="1661326791090" duration="4206000" />
+      <workItem from="1661409205945" duration="43000" />
     </task>
     <servers />
   </component>
@@ -213,5 +169,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
