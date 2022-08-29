@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-@WebServlet(name = "UserServlet", value = "/UserServlet")
+@WebServlet(name = "UserServlet", value =  "/user")
 public class UserServlet extends HttpServlet {
 
     IUserService userService = new UserService();

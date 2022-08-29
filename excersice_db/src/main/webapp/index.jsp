@@ -12,6 +12,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <c:redirect url="/UserServlet"></c:redirect>
+  <c:redirect url="/user"></c:redirect>
   </body>
 </html>
